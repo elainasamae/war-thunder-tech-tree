@@ -1,0 +1,10 @@
+node_modules/
+dist/
+artifacts/
+test-results/
+playwright-report/
+.env*
+
+.openai/hosting.json
+*.pem
+*.key

@@ -1,0 +1,36 @@
+// Brief Chinese summaries of common Wiki modification descriptions.
+// Sources: https://wiki.warthunder.com/unit/su_30sm2
+//          https://wiki.warthunder.com/unit/ussr_pantsyr_sm_sv
+// Vehicle-specific values remain in the original JSON; these are general notes.
+export const modDescriptions: Record<string, string> = {
+  Compressor: '维护和调整压气机，使发动机充分发挥功率。',
+  'Fuselage repair': '修复机身蒙皮并处理表面缺损，降低空气阻力。',
+  'G-suit': '提高飞行员承受过载的能力。',
+  Airframe: '更换损坏的机体结构，改善耐久性，并通过减重提升飞行性能。',
+  'Wings repair': '修复机翼蒙皮和表面缺损，降低空气阻力。',
+  Cover: '维护和更换损坏的蒙皮，改善耐久性和飞行性能。',
+  Engine: '维护、调整或更换磨损的发动机，改善动力表现。',
+  EFS: '启用发动机灭火系统。',
+  'Flares/Chaff': '配备热诱弹和箔条干扰装置。',
+  Tracks: '维护履带并调整张力，改善操控和通过能力。',
+  Suspension: '维护悬挂，减少车身晃动，改善行进间射击表现。',
+  'Brake System': '维护和调整制动系统，提高制动效率。',
+  Filters: '清洁空气、机油和燃油滤清器，改善发动机表现。',
+  Transmission: '维护传动机构，改善操控并减少动力损失。',
+  'Improved Parts': '提供野战维修所需的工具和备件。',
+  'Improved FPE': '改进灭火设备，提高灭火速度并增加可用次数。',
+  'Crew Replenishment': '允许在战斗中补充乘员。',
+  'Smoke grenade': '允许使用烟幕系统。',
+  'Horizontal Drive': '维护炮塔方向机，改善水平转动的平顺性与速度。',
+  'Adjustment of Fire': '校准火炮，减少瞄准偏差，提高射击精度。',
+  'Elevation Mechanism': '维护俯仰机构，改善调炮速度和瞄准精度。',
+  NVD: '启用载具对应的夜视设备。',
+  'Artillery Support': '允许对指定区域呼叫炮火支援。',
+  'Laser rangefinder': '安装和调整激光测距仪，更准确地测量目标距离。',
+  T220: '允许安装 T220 激光 / 光电瞄准吊舱。',
+  ASM: '解锁 Kh-59MK、Kh-31AD 和 Kh-35U 制导反舰导弹挂载。',
+  ARM: '解锁 Kh-58UShK 和 Kh-31PD 反辐射导弹挂载。',
+  'KAB-S': '解锁 UPAB-1500B 和 UPAB-500B 制导炸弹挂载。',
+  'KAB-Kr': '解锁 KAB-1500Kr 和 KAB-500Kr-M 制导炸弹挂载。',
+  Grom: '解锁 Grom-2 制导炸弹挂载。',
+};

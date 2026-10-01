@@ -1,0 +1,5302 @@
+{
+  "source": "https://wiki.warthunder.com/aviation",
+  "generated_at": "2026-10-01T07:30:00.087Z",
+  "vehicles": {
+    "p-26a_34_m2": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "p-36a": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "bf2c_1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "os2u_1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "os2u_3": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "tbd-1_1938": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "b_18a": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "p-26a_33": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "p-26b_35": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "p-36c": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "f3f-2": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "sb2u-2": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "sb2u-3": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "pby-5": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "pby-5a": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "f2a-1": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "tbf-1c": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "sbd-3": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "pbm_1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "f3f-2_galer": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "p-26a_34": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "p-36c_rb": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "p-36a_rasmussen": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "f2a-1_thach": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "b_10b": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "p-400": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "p-36g": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "f2a-3": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "p-51_a-36": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "b_34": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "p-38e": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.3"
+    },
+    "p-38g": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "p-40e": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "p-40f_10": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "f4f-3": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "3.0"
+    },
+    "f4f-4": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "f6f-3": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "a-20g": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "b_25j_1": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "p-39n": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.0"
+    },
+    "p-39q_5": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "p-51c-10-nt": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "f4u-1a": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "f4u-1a_usmc": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.3"
+    },
+    "f4u-1d": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.7"
+    },
+    "sb2c_1c": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "sb2c_4": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "b_25j_20": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.3"
+    },
+    "p-40e_td": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "p-40c": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "ki_43_2_late": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "yp-38": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "p-51a_tl": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "p-43a-1": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "p-38g_metal": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "pbm_3": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "ki_61_1a_otsu_usa": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "p-63a-5": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "p-51_mk1a_usaaf": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "p-51d-5": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "f4u-4": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "pbj_1j": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "pbj_1h": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.3"
+    },
+    "b_26b_c": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.7"
+    },
+    "p-63a-10": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.7"
+    },
+    "p-63c-5": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.7"
+    },
+    "p-47d_22_re": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "p-47d": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "f8f1": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "6.0"
+    },
+    "p-61c_1": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "b-17e": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "b-17e_late": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "p-38j": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.0"
+    },
+    "p-38l": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.3"
+    },
+    "p-47d-28": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "p-47n-15": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "f6f-5n": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.3"
+    },
+    "pb4y-2": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "a6m2_zero_usa": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "xf5f": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "btd-1": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "pbm_5a": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "xp-55": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "p-61a_1": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "xp-50": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "pv_2d": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "bf-109f-4_usa": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "p-63c-5_kingcobra_animal_version": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.7"
+    },
+    "fr_1_fireball": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.3"
+    },
+    "f-82e": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "p-51d-30_usaaf_korea": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.3"
+    },
+    "f4u-1c": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "f4u-4b": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "a-26b_10": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "a-26b": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "b-17g": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "b_24d": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "6.0"
+    },
+    "p-51h-5_na": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.7"
+    },
+    "f8f1b": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "f7f1": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "douglas_ad_2": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "douglas_ad_4": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "am_1_mauler": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.3"
+    },
+    "b-29": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.7"
+    },
+    "xa_38": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "p-38j_marge": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.0"
+    },
+    "p-51d-20-na": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "p-38k": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "p-51d-10": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "5.0"
+    },
+    "a-26c": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.7"
+    },
+    "p-47m-1-re": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "a-26c-45-dt": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.7"
+    },
+    "p-47m-1-re_boxted": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "xf5u_1": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "fw-190a-8_usa": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "p-59a": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "spitfire_ix_usa": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "f4u-4b_vmf_214": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "douglas_a_1h": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "f4u-6_au-1": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "f2g-1": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.7"
+    },
+    "f7f3": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.7"
+    },
+    "f-80a": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "f-84b": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.7"
+    },
+    "f-84g": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.0"
+    },
+    "f2h-2": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "8.0"
+    },
+    "f3d_1": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.7"
+    },
+    "b-57": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.3"
+    },
+    "b-57b": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.3"
+    },
+    "f-80": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "7.3"
+    },
+    "f-86a-5": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.7"
+    },
+    "f-86f-25": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.7"
+    },
+    "f9f-2": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.3"
+    },
+    "f9f-5": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.3"
+    },
+    "f9f-8": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.3"
+    },
+    "f-84f": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "f-89b": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.3"
+    },
+    "a2d": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "f-89d": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.3"
+    },
+    "f-86f-35": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "9.0"
+    },
+    "f_101c": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "f-86f-2": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "f3h-2": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "a_4b": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "fj_4b": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "b_66b": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.3"
+    },
+    "f-104a": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "f-104c": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "f-100d": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "f8u-2": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "av_8c": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "a_4e_early": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "fj_4b_agm_12b": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "f_117": {
+      "battle_rating_trb": "10.0",
+      "battle_rating_tsb": "10.0"
+    },
+    "b_52h": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.3"
+    },
+    "av_8a": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "f11f_1_late": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "a_10a_early": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "f4d_1": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.3"
+    },
+    "f_106a_1972": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "f-5e": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "f-4c": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "f-8e": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "a_10a_late": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "f-105d": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "f-4e": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "f-4j": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "a_7d": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "a_7e": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "f_111a": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "a_10c": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "f_111f": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "f-5c": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "f-5a": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "av_8b_na": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "a_6e_tram": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "f-4s": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "a_7k": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "f_16a_block_10": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "f_16a_block_15_adf": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "f_15a": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "fa_18a": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "fa_18c_late": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "av_8b_plus": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "f_15e": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "f_16c_block_50": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "f_15c_msip2": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "f_14a_early": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "f_14b": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "f_20a": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "f_14a_iriaf": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "f_16xl": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "f_14d": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "fa_18c_early": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "f_16c_block_52_aesa": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "f_15c_golden_eagle": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "fa_18e_block_2": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "f_102a_late": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "f_14d_vf_11": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "bf-109b_2": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "he51a1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "he51b1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "he51c1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "he51c1_late": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "do_17z_7": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "hs-123a-1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "do_17e_1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "do_17z_2": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "bf-109c_1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "he_112v_5": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "he_112a_0": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "do_217j_1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "do_217j_2": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "3.0"
+    },
+    "ju-87b-2": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "ju-87r-2": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "he_115c_1": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "bv-138c-1": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "he_100d_1": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "ju-87g_1": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "ju-87g_2": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "he-111h-2": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "bf-109a_1": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "he51b_2w": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "ju-87r-2_snake": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "arado-196a-3": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "fiat_cr42_marcolin": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "bf-109c_1_promo": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "fiat_cr42": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "fiat_g50_seria2": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "fiat_g50_seria7as": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "fw-189a-1": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "mc200_serie3": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "mc200_serie7": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "mc-202": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "bf-109e-1": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "he_112b_0": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "ju-88c-6": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "hs-129b-3": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "hs-129b-2": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "fw_200c_1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "bf-109e-3": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "bf-109e-4": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "c_3604": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "do_217n_1": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "do_217n_2": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "ju-87d-3": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "ju-87d-5": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "ju-88a-1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "ju-88a-4": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "bf-109f-1": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "bf-109f-2": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.7"
+    },
+    "fw-190a-1": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "bf-110c-4": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.0"
+    },
+    "bf-110f-2": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.3"
+    },
+    "me_210a_1": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "me-410a-1_u4": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "me-410b-2_u4": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "4.7"
+    },
+    "he-111h-6": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "he-111h-16_winter": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.7"
+    },
+    "he_112b_1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "fw_189c_0": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "il_2_1942_luftwaffe": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "wellington_mk1c_luftwaffe": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "3.0"
+    },
+    "bf_109t_2": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "he_112b_2": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "yak-1b_luftwaffe": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.3"
+    },
+    "h-75a-2_finland": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "bv-238": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "bf-109e-7": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "bf-110c-6": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "sm_79_1936": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "sm_79_1939": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "sm_79_1941": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "sm_79_1943": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "sm_79_iar": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "sm_79_1937": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "sm_79_1942": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "bf-109f-4": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "bf-109f-4_trop": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "fw-190a-4": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "fw-190a-5_u2": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.7"
+    },
+    "bf-110g-2": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "bf_110g_4": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "me-410a-1": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "me-410b-1": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "me_264": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "fw-190d-9": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "me-410a-1_u2": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "me-410b-1_u2": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "do_335a_1": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "do_335a_0": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.3"
+    },
+    "do_217e_2": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.0"
+    },
+    "do_217e_4": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.3"
+    },
+    "p-47d_16_re_germany": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "hs-129b-2_romania": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "ta_154a_1": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.0"
+    },
+    "p-47d_luftwaffe": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "fw_190a_5_u14": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.7"
+    },
+    "la-5fn_luftwaffe": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "bf-109g-2_romania": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "bv-155b-1": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "bf-109g-2": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "bf-109g-6": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "fw-190a-5_cannons": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.7"
+    },
+    "fw-190a-8": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "me-410b-6_r3": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.3"
+    },
+    "fw-190f-8": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "4.3"
+    },
+    "do_217k_1": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.3"
+    },
+    "do_217m_1": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "bf-109g-14": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.0"
+    },
+    "bf-109g-10": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.3"
+    },
+    "fw-190a-5": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.7"
+    },
+    "fw-190d-12": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "me-262a-1a_u4": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "ju-188a-2": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "bf-109k-4": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "ta-152h-1": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "ta-152c": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.0"
+    },
+    "he-177a-5": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.3"
+    },
+    "he_219a_7": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.3"
+    },
+    "ia_58a_pucara": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.3"
+    },
+    "do_335b_2": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "bf-109z": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "tempest_mkv_luftwaffe": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "6.3"
+    },
+    "ju-388j": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.3"
+    },
+    "ju-288c": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "fw-190c": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "he-177a-3": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.3"
+    },
+    "fw-190d-13": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.3"
+    },
+    "me-262a-1a": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "me-262c-1a": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.7"
+    },
+    "me-262c-2b": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.0"
+    },
+    "he-162a-2": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.7"
+    },
+    "go229_v3": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.7"
+    },
+    "me-262a-1a_early": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.3"
+    },
+    "arado-234": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.7"
+    },
+    "arado-234c-3": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.3"
+    },
+    "me-163b": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "me-163b-0": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "mig-15bis_nr23_german": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.7"
+    },
+    "il_28_german": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "me-262a1_u1": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.0"
+    },
+    "he-162a-1": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.7"
+    },
+    "sea_hawk_mk100": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "me-262a-2a": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.7"
+    },
+    "fiat_g91_r4_german": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "f-86_canadair_german": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "f-86_cl_13b_mk6": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "mig-17p_lim_5p": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "fiat_g91_r3": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "f-84f_germany": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "hunter_f58a_1971_switzerland": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "f-86k_late_german": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "mig-19s": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "alpha_jet_a": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "mig_23bn": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "hunter_f58_switzerland": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "alpha_jet_a_jabog41": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "mig-21_sps_k": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "ffa_p16": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "f-104g": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mig-21_mf": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mig-21_bis_sau": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "tornado_ids_de_assta1": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "su_22um3k": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mirage_3s_c70_switzerland": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "f-4f_late": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "mig_23mla": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "su_22m4": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "f-5e_switzerland": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "mig-21_bis_lazur": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "f-4f": {
+      "battle_rating_trb": "10.0",
+      "battle_rating_tsb": "10.0"
+    },
+    "tornado_ids_de_wtd61": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mig_23mf_germany": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "su_22m4_de_wtd61": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "f-4f_kws_lv": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "mig_29_9_12_germany": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "tornado_ids_de_assta3_sle": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "fa_18c_late_switzerland": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "mig_29_9_12g": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "tornado_ids_de_mfg": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "fa_18c_switzerland": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "ef_2000_block_10": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "ef_2000_aesa": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "arado_234b_2_mt": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.7"
+    },
+    "i-16_type5": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "i-15_1934": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "i-15_1935": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "i-15_1935_moscow": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "po-2": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "sb_2m_100": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "sb_2m_103c": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "mig_3_series_1_15": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "i-15bis": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "i-153_m62": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "bb-1": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "su-2_mv5": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "su-2_tss1": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "su-2_m82": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "yak-4": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "i-16_type10": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "i-16_type18": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "i-16_type24": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "pe-3_early": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "pe-3": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "ar_2": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "sb_2m_103u_mv3": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "sb_2m_105": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "sb_2m_103u": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "sb_2m_103_mv3": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "yak_2_kabb": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "i-15bis_krasnolutsky": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "mbr-2": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "pby-5a_ussr": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "po-2m": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "hp52_hampden_tbmk1_ussr_utk1": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "tb_3_m17_32": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "tandem_mai": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "i-153_m62_zhukovskiy": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "db_lk": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "yak-1_early": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "yak-1b": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.3"
+    },
+    "mig_3_series_1_15_bk_pod": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "mig_3_series_34": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "lagg-3-8": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "lagg-3-11": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "il_2_1941": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "db_3b": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "il-4": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.0"
+    },
+    "yak-7b": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "i-16_type27": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "lagg-3-35": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "lagg-3-66": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "il-2i": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "il_2_37_1943": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "pe-2-1": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "pe-2-31": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "pe-2-83": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "yak-9": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "yak-9b": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "la-5_type37_early": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "la-5_type39": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "pe-3_bis": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.0"
+    },
+    "lagg-3-4": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "lagg-3-23": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "yak_1_litvyak": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "i_29": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "p-40e_ussr": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "il_2_m82": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "hurricanemkii_ussr": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "i_180": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "i-153p": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "lagg-3-34": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "i-16_type28": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "lagg-i-301": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "p-39k_1": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.0"
+    },
+    "yak-9t": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "yak-9k": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "i_185_m82": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "la-5fn": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "il_2m_1943": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "il-2m": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "er-2_m105_mv3": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "4.0"
+    },
+    "er-2_m105r_lu2b": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "er-2_m105_tat": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "er-2_m105r_tat": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "yak-3": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "yak-9u": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "i_185_m71_standard": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.3"
+    },
+    "la-7": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.0"
+    },
+    "su-6_m71": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "5.3"
+    },
+    "pe-2-110": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "pe-2-359": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.7"
+    },
+    "pe-8_m82": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "a_20g_30_ussr": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "il-2m_mstitel": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "p-39n_su": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "yak-9m": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "p-39q_15": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "pe-2-205": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "p-63a-5_ussr": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "il_8_1944": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "p-47d_ussr": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "tis_ma": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "b_25j_30_vvs_ussr": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.3"
+    },
+    "itp_m1": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "yak-3_eremin": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "tu-2_early": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "yak-3p": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "yak-9p": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "i_225": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "la-7b-20": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "su-6_am42": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.0"
+    },
+    "er-2_ach30b_early": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "er-2_ach30b_late": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "5.7"
+    },
+    "yak-3u": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "yak-9ut": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.7"
+    },
+    "la-9": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "il-10": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.3"
+    },
+    "il-10_1946": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.3"
+    },
+    "tu-2": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.7"
+    },
+    "tu-2_postwar": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "6.0"
+    },
+    "tu-2_postwar_late": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "6.0"
+    },
+    "su_6_single": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.3"
+    },
+    "p-63c-5_ussr": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.7"
+    },
+    "la-7_dolgushin": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.0"
+    },
+    "p-63a-10_ussr": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.7"
+    },
+    "be_6": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.3"
+    },
+    "su-8": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.7"
+    },
+    "la-11": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "fw-190d-9_ussr": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "spitfire_ix_ussr": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "yak-3t": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "yak-3_vk107": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "tu-1": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "yak-15_early": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.7"
+    },
+    "yak-15": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.7"
+    },
+    "yak-17": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "7.0"
+    },
+    "mig-9": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.3"
+    },
+    "mig-9_ussr": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.7"
+    },
+    "su-9": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "il_28": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "il_28sh": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.3"
+    },
+    "tu_4": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "yak-23": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "7.7"
+    },
+    "mig-15_ns23": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.3"
+    },
+    "mig-15": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.7"
+    },
+    "la_200_toriy": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.0"
+    },
+    "la-15": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "tu_14t": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "l_39za": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "bi": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "6.3"
+    },
+    "su-11": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.0"
+    },
+    "la_174": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "mig-15bis_ish": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.3"
+    },
+    "yak-30d": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "mig-17": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "su-7b": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "su-7bkl": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "yak_130_early": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "yak-28b": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "7.7"
+    },
+    "yak-38m": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "mig-19pt": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "mig-21_f13": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "su_25": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mig-17_cuba": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "tu_95m": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "yak-38": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "j_22m1a": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "mig-21_s": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "10.0"
+    },
+    "mig-21_pfm": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "su-7bmk": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "su_25k": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mig-21_smt": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mig-21_bis": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "su_17m2": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "su_25t": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "mig_27m": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "mig_27k": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "mig_23m": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "mig_23mld": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "su_17m4": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "su_24m": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "su_22m3": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "su_25_558arz": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "mig_25pd": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "su_25tm": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "mig_23ml": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "yak_141": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "mig_29_9_12": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "su_27": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "su_25sm3": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "su_34": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "mig_29kr_9_41r": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "mig_29_9_13": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "su_27sm": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "mig_29smt_9_19": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "su_33": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "su_30mk2v_venezuela": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "mig_29m_9_15": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "su_30sm": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "su_30sm2": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "mig_35": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "fury_mk1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "fury_mk2": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "gladiator_mk2_france": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "nimrod_mk1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "v_156_b1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "hp_12": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "gladiator_mk2_silver": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "nimrod_mk2": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "blenheim_mkiv": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "beaufort_mkviii": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "swordfish_mk1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "gladiator_mk2": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "gladiator_mk2_navy": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "hp52_hampden_mk1_late": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "hp52_hampden_tbmk1": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "gladiator_mk2_tuck": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "swordfish_mk2": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "wirraway": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "pby-5a_raf": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "hurricanemkii": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "hurricane_mk1": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "spitfire_mk1": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "spitfiremkiia": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.0"
+    },
+    "hurricane_mk1b": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "hurricane_mk4": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "sunderland_mk3a": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "sunderland_mk5": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "typhoon_mk1a": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "spitfiremkii": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.0"
+    },
+    "hurricane_mk1c": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.3"
+    },
+    "beaufighter_mk6c": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.3"
+    },
+    "beaufighter_mkx": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.7"
+    },
+    "beaufighter_mk21": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "wellington_mk1c": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "wellington_mk1c_late": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.0"
+    },
+    "spitfire_mk5b": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "spitfire_mk5b_notrop": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "3.7"
+    },
+    "firebrand_tf4": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "tempest_mkv_vikkers": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "wellington_mk3": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "wellington_mk10": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "4.0"
+    },
+    "avenger_mk1": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "intruder_mk_1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "hudson_mk_v": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "beaufighter_mk1_40mm": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "b_48_firecrest": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "boston_mk_1": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "corsair_fmk2": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "db_7": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "spitfiremkiia_ep": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.0"
+    },
+    "hurricane_mk1_late_ep": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "d_520": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "f4f-4_martlet_mk4": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.0"
+    },
+    "d_521": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "boomerang_mki": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "spitfire_mk5b_float": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "boomerang_mkii": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "typhoon_mk1b_late": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "5.0"
+    },
+    "spitfire_ix_early": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "spitfire_xvi": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "firefly_mk1": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "4.0"
+    },
+    "firefly_mk5": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "mosquito_fb_mk6": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "mosquito_fb_mk18": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.3"
+    },
+    "mosquito_nf_mk2": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "mosquito_tr_mk33": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "halifax_mk3": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.3"
+    },
+    "spitfire_mk5c": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "spitfire_mk5c_notrop": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "seafire_mk3": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "brigand_b1": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.3"
+    },
+    "whirlwind_mk1": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "stirling_mk1": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "stirling_mk3": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.3"
+    },
+    "hellcat_fmk1": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "mosquito_b_mk16": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "thunderbolt_mk1": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "whirlwind_p9": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.3"
+    },
+    "p-51b": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "spitfire_mk9c_4cannons": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "typhoon_mk1b": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.0"
+    },
+    "tempest_mkv": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "6.0"
+    },
+    "spitfire_mk14e": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.3"
+    },
+    "spitfire_mk18e": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "spitfire_ix": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "seafire_mk17": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "seafire_fr47": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "welkin_fmk1": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "lancaster_mk1": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "lancaster_mk3": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "tempest_mk2": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.3"
+    },
+    "spitfire_f22": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.0"
+    },
+    "spitfire_f24": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.7"
+    },
+    "sea_fury_fb11": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "hornet_mk3": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "lincoln_b2": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.3"
+    },
+    "shackleton_mr_mk_2": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.3"
+    },
+    "mb_5": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "4.7"
+    },
+    "wyvern_s4": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "hornet_mk1": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "spitfire_mk14c": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.3"
+    },
+    "spitfire_ix_plagis": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "spitfire_fr_mk14e": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.3"
+    },
+    "strikemaster_mk88": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "vampire_fb5": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "7.7"
+    },
+    "meteor_fmk3": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.0"
+    },
+    "meteor_fmk3_navy": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.3"
+    },
+    "attaker_fb1": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.3"
+    },
+    "swift_f1": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.3"
+    },
+    "washington_b1": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.7"
+    },
+    "venom_fb4": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "meteor_fmk4_lw": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "7.7"
+    },
+    "meteor_fmk4_sw": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "meteor_fmk8": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "sea_hawk_fga6": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "7.3"
+    },
+    "sea_venom_faw20": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.0"
+    },
+    "swift_f7": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "canberra_bmk2": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.3"
+    },
+    "canberra_bimk6": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.3"
+    },
+    "meteor_fmk8_reaper": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "attaker_fb2": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.3"
+    },
+    "dh_110_sea_vixen": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "marut_mk1": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "hunter_f1": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "javelin_fmk9": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.7"
+    },
+    "scimitar_f1": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "jaguar_gr1": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "buccaneer_s2": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "hunter_f6": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "lightning_f6": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "harrier_gr3": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "lightning_f53": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "buccaneer_s1": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "harrier_gr1": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "hunter_f9_rhodesia": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.7"
+    },
+    "f-4m_fgr2": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "tornado_f3": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "harrier_frs1_early": {
+      "battle_rating_trb": "10.0",
+      "battle_rating_tsb": "10.0"
+    },
+    "jaguar_gr1a": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "buccaneer_s2b": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "f-4k": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "hawk_200": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "hawk_200_rda": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "f_111c_raaf": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "tornado_gr1": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "harrier_frs1": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "jaguar_is": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "f-4jk": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "harrier_t10": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "saab_jas39c_south_africa": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "tornado_f3_late": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "fa_18a_raaf": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "fa_18a_hug_2_raaf": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "harrier_gr7": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "tornado_gr4": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "sea_harrier_fa2": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "mig-21_bison": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "cf_188a_canada": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "ef_2000_fgr4": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "fa_18f_block_2_raaf": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "ef_2000_typhoon_aesa": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "ca_27_mk32_raaf": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "hawk_t1a_early": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "hawk_t1a": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "f1m2": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "ki_10_1": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "ki_10_2": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "ki_10_1_commander": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "ki_10_2_commander": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "ki-45_tei": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "ki-45_otsu": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "b5n2": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "ki_32": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "a5m4": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "ki-27_otsu": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "ki-45_ko": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "ki-45_hei": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "d3a1": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "ki_21_1ko": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "ki_43_1": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "ki_43_2": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "ki_109": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "b6n1": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "h6k4": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "a5m4_hagiri": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "ki-27_otsu_ep": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "a6m2_n_zero": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "n1k1_kyuofu": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "ki_44_1": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "ki_61_1a_ko": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "j1n1_mod11_early": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "b6n2": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "b6n2a": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "g4m1": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "3.0"
+    },
+    "a6m2_mod11": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "a6m2_zero": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "ki_44_2_hei": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.0"
+    },
+    "ki_61_1a_otsu": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "ki_102_otsu": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "d4y1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "d4y2": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "h8k2": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "d4y3": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "ki-49_1": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.7"
+    },
+    "ki-49_2a": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.7"
+    },
+    "a7he1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "ki_48_2_otsu": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "ki_44_1_ep": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "ki_21_1hei": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "ki_44_2_otsu": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "bf-109e-3_japan": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "me_210_v22_japan": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "f4u-1a_japan": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.3"
+    },
+    "h8k3": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "a6m3_zero": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "a6m3_mod22_zero": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "a6m3_mod22ko_zero": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "ki_43_3_otsu": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.7"
+    },
+    "ki_108": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "p1y1_mod11": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "4.0"
+    },
+    "ki-49_2b": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "ki-49_2b_late": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "a6m5_zero": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "ki_61_1a_tei": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.0"
+    },
+    "ki_61_2_early": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "j2m2": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "b7a2": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "g5n1": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "ki_100_early": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "j5n1": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.3"
+    },
+    "ki_67_1_ko": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.7"
+    },
+    "ki_67_1_otsu": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.0"
+    },
+    "ki-96": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "p-51c-11-nt_japan": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "ki_100_2": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "b7a2_homare_23": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "sb2c_5_thailand": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "a6m5otsu": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "a6m5hei": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "ki_61_1a_hei": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "j7w1": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "g8n1": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "a7m2": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "ki_84_ko": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.0"
+    },
+    "ki_84_otsu": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "j2m3": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.0"
+    },
+    "j2m5": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "n1k1_ja": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.3"
+    },
+    "n1k2_j": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "n1k2_jko": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.3"
+    },
+    "ki_84_hei": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "ki-83": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "b-17e_japan": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "a6m6c": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "a7m1": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "fw-190a-5_japan": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.7"
+    },
+    "a6m5ko": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "ki_94_2": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "ki_61_1a_hei_ep": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "ki_87": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "6.0"
+    },
+    "j2m4_kai": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "j6k1": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.3"
+    },
+    "j2m5_30mm": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "kitsuka": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "6.7"
+    },
+    "j8m1": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.0"
+    },
+    "l_39za_art_thailand": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "7.7"
+    },
+    "r2y2_v1": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "r2y2_v2": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "7.3"
+    },
+    "r2y2_kai": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "7.7"
+    },
+    "f-86f-30_japan": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.7"
+    },
+    "f-86f-40_japan": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.3"
+    },
+    "f-84g_thailand": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.0"
+    },
+    "f-86f-40_japan_blue_impulse": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.3"
+    },
+    "f-104j": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "t2": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "alpha_jet_a_thailand": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "f1": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "alpha_jet_th_phase_1": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "t2_early": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "av_8s_thailand": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "f-4ej": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "a_7e_thailand": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "f-5a_thailand": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "av_8s_late_thailand": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "f-5t_thailand": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "f-5e_fcu_thailand": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "f-4ej_adtw": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "hawk_209_indonesia": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "f-4ej_kai": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "f_16aj": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "f-5th_thailand": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "f_16a_block_15_ocu_thailand": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "mig_29n": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "f_15j": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "f_15j_kai": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "f_2a": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "saab_jas39c_thailand": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "fa_18d_late_malaysia": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "f_2a_adtw": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "su_30mkm": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "ki_93_1_ko": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.3"
+    },
+    "ca_27_mk32_malaysia": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "a_4ptm_malaysia": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "b_26b_indonesia_kalong": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "gladiator_mk1_china": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "i-15bis_china": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "hs-123a-1_china": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "martin_139wc": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "ki-27_otsu_china": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "ki_43_3_ko": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "i-16_chung_28": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "i-16_type5_1935_china": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "v_11g": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "cw_21": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "i-153_m62_china": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "v_12d": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "hawk_iii": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "d_510c": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "h-75m_china": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "p-66": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "i-16_type10_china": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "a_29_hudson": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "db_3a_china": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "sb_2m_103u_china": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "p-40e_china": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "p-43a-1_china": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "i-16_type17_china": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "p1y1_mod11_china": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "4.0"
+    },
+    "p-40c_china": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "ki-45_hei_tei_china": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "p-47d_23_ra_china_rocaf": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "p-47d_30_china": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "3.7"
+    },
+    "ki_44_2_hei_china": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.0"
+    },
+    "mosquito_fb_mk26_china": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "b_25j_30_china": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.3"
+    },
+    "p-51d-20_china": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "p-51k": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.3"
+    },
+    "ki_61_1a_otsu_china": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "p-38l_1_china_rocaf": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.3"
+    },
+    "a6m2_zero_china": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "p-51c-11-nt_china": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "f_47n_25_re_china": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "la-11_china": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "il-10_1946_china": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.3"
+    },
+    "pb4y-2_china": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "la-9_china": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "tu-2_postwar_china": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "6.0"
+    },
+    "quing_6": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.3"
+    },
+    "ki_84_ko_china": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.0"
+    },
+    "f-86f-30_china": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.7"
+    },
+    "f-86f-40_china": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.3"
+    },
+    "mig-9_china": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.3"
+    },
+    "mig-9_late_china": {
+      "battle_rating_trb": "7.3",
+      "battle_rating_tsb": "7.7"
+    },
+    "f-84g_china": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.0"
+    },
+    "tu_4_china": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "mig-15bis_nr23_china": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.7"
+    },
+    "mig-17_china": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "il_28_china": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "f-84g-31-re_china": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.0"
+    },
+    "f-100a_china": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "mig-19j_6a": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "j_7_mk2": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "q_5_early": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "f-104a_china": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "q_5a": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "mig-17_f5": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "f_100f_china": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "f_6c_pakistan": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "f-104g_china": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "j_7e": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "q_5l": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "f-5a_china": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "f-5e_aidc": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "j_8b": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "jh_7": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "a_5c": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "j_7d": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "f_16a_block_20_mlu": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "j_8f": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "jh_7a": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "j_11": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "j_11a": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "mirage_2000_5ei": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "j_10a": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "jh_7a2": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "j_11b": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "jh_7a_prototype": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "su_30mkk": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "jf_17": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "f_16a_block_72v_china": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "j_10c": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "j_15t": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "j_16": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "ro_44": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "cr_32": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "cr_32_quater": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "ba_65_k14_l": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "ju-87r-2_italy": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "s_81_ar125": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "wm_21": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "re_2000_int": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "re_2000_ga": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "fiat_cr42_italy": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "breda_88": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "p_108a_serie2": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "3.0"
+    },
+    "br_20_dr": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "br_20m_m1": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "re_2000_heja_1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "fiat_g50_seria2_italy": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "fiat_g50_seria7as_italy": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "fc_20_bis": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "sm_79_1936_italy": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "sm_79_1939_italy": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "re_2000_heja_2": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "fiat_cr42_marcolin_italy": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "ba_65_a80": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "cr_32_bis": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "re_2002_early": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "mc200_serie3_italy": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "mc200_serie7_italy": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "ju-87d-3_italy": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "sm_79_1941_italy": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "sm_79_1943_italy": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "sm_79_iar_italy": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "wm_23": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "re_2001_serie1": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "re_2001_cb": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "mc-202_italy": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "mc-205_serie1": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "sm_91": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "z_1007_bis_serie3": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "z_1007_bis_serie5": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "he_112b_1_italy": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "iar_81c": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "ro_57_quadriarma": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "mc-202_d": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "re_2001_serie1_ep": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "re_2001_cn": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "mc-202_ec": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "sm_92": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.3"
+    },
+    "p_108b_serie1": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "p_108b_serie2": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "me_210ca_1_hungary": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "me_210ca_1_40_mm_hungary": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "g_55_serie1_ss0": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.3"
+    },
+    "mc-205_n2": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "p-47d_30_italy": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "3.7"
+    },
+    "hs-129b-2_romania_italy": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.7"
+    },
+    "iar_81c_db_605": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "spitfire_mk5b_italy": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "bf_110g_4_hungary": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "bf-109f-4_hungary": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "g_55_serie1": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "4.7"
+    },
+    "re_2005_serie0": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "mc-205_serie3": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "il-10_1946_hungary": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "5.3"
+    },
+    "tu-2_postwar_late_hungary": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "6.0"
+    },
+    "yak-9p_hungary": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "g_56": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.0"
+    },
+    "bf-109g-14as": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.0"
+    },
+    "fw_190f_8_hungary": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "4.3"
+    },
+    "bf-109g-2_hungary": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "re_2005_vdm": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "g_55s": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "4.7"
+    },
+    "vampire_fb52a_italy": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "7.7"
+    },
+    "fiat_g91_ps": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.3"
+    },
+    "fiat_g91_r1": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.3"
+    },
+    "mb_326k": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "7.7"
+    },
+    "il_28_hungary": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.0"
+    },
+    "mig-15bis_nr23_hungary": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.7"
+    },
+    "f-86_cl_13_mk4_italy": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "f-84g_italy": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.0"
+    },
+    "mb_326b": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.3"
+    },
+    "fiat_g91_r4": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "f-86k_late_italy": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "sagittario_2": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "8.0"
+    },
+    "f-84f_italy": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "mig-17pf_hungary": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "9.0"
+    },
+    "f-104g_italy": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "fiat_g91_y": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "fiat_g91_ys": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.7"
+    },
+    "ariete": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.0"
+    },
+    "iar_93b": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "f-104s": {
+      "battle_rating_trb": "10.0",
+      "battle_rating_tsb": "10.0"
+    },
+    "amx": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "tornado_ids_it": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "su_22m3_hungary": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mig-21_mf_hungary": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mig-21_bis_sau_hungary": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "f-104s_asa": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "tornado_adv": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "tornado_ids_it_mod95": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "tornado_ids_it_ret8": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "mig_23mf_hungary": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "amx_a_1a_brazil": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "f-104s_cb": {
+      "battle_rating_trb": "10.0",
+      "battle_rating_tsb": "10.0"
+    },
+    "f_16a_block_15_adf_italy": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "m_346fa": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "av_8b_plus_italy": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "mig_29_9_12b_hungary": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "saab_jas39c_hungary": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "mig_29_9_12_sniper": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "ef_2000a": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "ef_2000a_aesa": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "d_371": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "d_373": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "d_500": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "d_501": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "v_156_f": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "potez_633": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "gladiator_mk1_belgium": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "caudron_cr714": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "h-75a-1_france": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "h-75a-4_france": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "br_693_ab2": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "f_222_2": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "fokker_d21_netherlands": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "ms_405c1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "ms_406c1": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "maryland_mk1_france": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "mb_174_a3": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "d_510": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "late_298d": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "pby-5a_late_france": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "d_371_hs9": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "mb_151c1": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "ms_410c1": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "potez_630": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "potez_631": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "a-35b": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "nc_223_3": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "fokker_g1a": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "vg_33": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "d_520_france": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "f6f-5_france": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "mb_175t": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "leo_451_early": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "leo_451_late": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "fokker_d23": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "p-40f-5_france_ep": {
+      "battle_rating_trb": "2.7",
+      "battle_rating_tsb": "2.7"
+    },
+    "mb_152c1": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "vb_10c1": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "3.7"
+    },
+    "mb_157": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "sb2c_5_france": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "b_26c_france": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.7"
+    },
+    "firefly_mk4_netherlands": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "vb_10_02": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "p-63c-5_france": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.7"
+    },
+    "mb_162": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "p-47d_22_re_france": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "p-39q_25_france": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.3"
+    },
+    "yak-9t_france": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "p-51c-10_france": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "yak-3_france": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "sb_25j_netherlands": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.3"
+    },
+    "seafire_mk3_france": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "f6f-5n_france": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.3"
+    },
+    "douglas_ad_4_france": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "pb4y-2_france": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "spitfire_fr_mk14e_belgium": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.3"
+    },
+    "sea_fury_fb51": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.7"
+    },
+    "f8f1b_france": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "f4u-7": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "lancaster_mr7_france": {
+      "battle_rating_trb": "5.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "so_8000_narval": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.7"
+    },
+    "fw-190a-8_france": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "douglas_ad_4na_france": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "5.7"
+    },
+    "md_450b_ouragan": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "7.7"
+    },
+    "md_450b_barougan": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "7.7"
+    },
+    "so_4050_vautour_2n_late": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.7"
+    },
+    "f-84g_france": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.0"
+    },
+    "meteor_fmk8_belgium": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "md_452_mystere_2a": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.3"
+    },
+    "md_452_mystere_2c_preproduction": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.7"
+    },
+    "sea_hawk_fga50_netherlands": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "md_454_mystere_4a": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "md_460": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "f-86k_late": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "f-84f_france": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "so_4050_vautour_2b": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "so_4050_vautour_2a": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "hunter_f6_holland": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "alpha_jet_e": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "f-100d_france": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "etndard_4m": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.3"
+    },
+    "so_4050_vautour_2n": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "f-84f_iaf": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "mirage_milan": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "so_4050_vautour_2a_iaf": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "md_460_yt_cup_2019": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "mirage_3c": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mirage_3e": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "f-8e_fn": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mirage_5f": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "super_etendard_97": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "mirage_5ba": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "mirage_f1c": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "mirage_f1ct": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "jaguar_a": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "f-104g_belgium": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "nf_5a_netherlands": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "jaguar_e": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "mirage_f1c_200": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "mirage_2000c_s5": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "mirage_4000": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "mirage_2000d_r1": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "f_16a_block_15_belgium": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "mirage_2000_5f": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "mirage_2000d_rmv": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "f_16am_block_15_mlu_belgium": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "f_16a_block_5_netherlands": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "mirage_2000c_s4": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "f_16a_block_15_ocu_belgium": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "f_16am_block_20_mlu_netherlands": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "rafale_c_f3": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "rafale_m_f3r": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "se_203": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.3"
+    },
+    "gladiator_j8a": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "j6b": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "saab_b17bs": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.3"
+    },
+    "he_115a_2_sweden": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "fokker_d21_serie3_finland": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "1.7"
+    },
+    "fiat_cr42_j11": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "saab_b17b": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "saab_b17a": {
+      "battle_rating_trb": "1.7",
+      "battle_rating_tsb": "2.0"
+    },
+    "saab_b3c": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.3"
+    },
+    "gladiator_j8a_iacobi": {
+      "battle_rating_trb": "1.0",
+      "battle_rating_tsb": "1.0"
+    },
+    "arado-196a-5": {
+      "battle_rating_trb": "1.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "re_2000_j20": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "saab_b18a": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "b_239_finland": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.3"
+    },
+    "ffvs_j22_a": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.0"
+    },
+    "ju-88a-4_finland": {
+      "battle_rating_trb": "3.0",
+      "battle_rating_tsb": "2.7"
+    },
+    "hurricane_mk1_late_finland": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "fokker_d21_mod20": {
+      "battle_rating_trb": "2.0",
+      "battle_rating_tsb": "1.7"
+    },
+    "j9_early": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.0"
+    },
+    "morko_morane": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "1.7"
+    },
+    "vl_myrsky_2_late": {
+      "battle_rating_trb": "2.3",
+      "battle_rating_tsb": "2.3"
+    },
+    "ffvs_j22_b": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "2.3"
+    },
+    "mosquito_f_mk2_norway": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "saab_b18b": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "3.0"
+    },
+    "p-51d-20-na_j26": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "mosquito_fb_mk6_norway": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "mosquito_fb_mk6_ash_norway": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "saab_t18b_1": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "saab_t18b_2": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "4.0"
+    },
+    "p-51b_7_sweden": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "mosquito_j30_sweden": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "3.7"
+    },
+    "pyorremyrsky": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "4.3"
+    },
+    "saab_j21a_1": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "saab_j21a_2": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "saab_a21a_3": {
+      "battle_rating_trb": "4.3",
+      "battle_rating_tsb": "3.7"
+    },
+    "bf-109g-2_finland": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "bf-109g-6_erla_finland": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "bf-109g-6_finland": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "saab_j21ra": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "6.7"
+    },
+    "saab_a21rb": {
+      "battle_rating_trb": "6.7",
+      "battle_rating_tsb": "7.0"
+    },
+    "saab_sk60b": {
+      "battle_rating_trb": "7.0",
+      "battle_rating_tsb": "7.3"
+    },
+    "vampire_fb5_j28b": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "7.7"
+    },
+    "vampire_fb52_finland": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "7.7"
+    },
+    "saab_j29a": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.0"
+    },
+    "saab_j29b": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.3"
+    },
+    "saab_105g": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "saab_105oe": {
+      "battle_rating_trb": "8.3",
+      "battle_rating_tsb": "8.3"
+    },
+    "saab_j29d": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "saab_j29f": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "saab_a32a": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "hunter_f50_sweden": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "saab_j32b": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "saab_a32a_red_adam": {
+      "battle_rating_trb": "9.0",
+      "battle_rating_tsb": "9.0"
+    },
+    "saab_j35a": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "saab_j35d": {
+      "battle_rating_trb": "10.0",
+      "battle_rating_tsb": "10.0"
+    },
+    "saab_aj37": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "mig_21_bis_finland": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "saab_ja37": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "saab_ajs37": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "saab_j35xs": {
+      "battle_rating_trb": "10.0",
+      "battle_rating_tsb": "10.0"
+    },
+    "saab_ajs37_early": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "saab_f35_wdns": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "f-5ag_norway": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "saab_ja37d": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "saab_ja37di": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "f_16a_block_10_norway": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "fa_18c_finland": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "saab_jas39a": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "saab_jas39c": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "f_16am_block_20_mlu_norway": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "fa_18c_mlu_2_finland": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "saab_ja37di_f21": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "saab_jas39d": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "saab_jas39e": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "saab_j35j": {
+      "battle_rating_trb": "10.0",
+      "battle_rating_tsb": "10.0"
+    },
+    "spitfire_mk9c_iaf": {
+      "battle_rating_trb": "4.7",
+      "battle_rating_tsb": "4.7"
+    },
+    "s_199": {
+      "battle_rating_trb": "3.3",
+      "battle_rating_tsb": "3.3"
+    },
+    "b-17g_iaf": {
+      "battle_rating_trb": "5.3",
+      "battle_rating_tsb": "5.3"
+    },
+    "spitfire_lf_mk9e_iaf": {
+      "battle_rating_trb": "5.7",
+      "battle_rating_tsb": "5.0"
+    },
+    "p-51d-20-na_iaf": {
+      "battle_rating_trb": "4.0",
+      "battle_rating_tsb": "5.0"
+    },
+    "spitfire_lf_mk9e_weisman": {
+      "battle_rating_trb": "6.3",
+      "battle_rating_tsb": "6.3"
+    },
+    "spitfire_lf_mk9c_cw_greece": {
+      "battle_rating_trb": "6.0",
+      "battle_rating_tsb": "6.0"
+    },
+    "meteor_nfmk13": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "7.7"
+    },
+    "md_450b_ouragan_iaf": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "7.7"
+    },
+    "meteor_fmk8_iaf": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "md_450b_ouragan_iaf_29": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "7.7"
+    },
+    "meteor_frmk9_iaf": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "md_454_mystere_4a_iaf": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "a_4h": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "a_4e_early_iaf": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "so_4050_vautour_2a_israel_iaf": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "so_4050_vautour_2n_iaf": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "md_460_sambad": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "md_460_saar": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "a_4n": {
+      "battle_rating_trb": "10.0",
+      "battle_rating_tsb": "10.0"
+    },
+    "f-84f_israel_iaf": {
+      "battle_rating_trb": "8.0",
+      "battle_rating_tsb": "8.0"
+    },
+    "a_4e_late_iaf": {
+      "battle_rating_trb": "9.3",
+      "battle_rating_tsb": "9.3"
+    },
+    "mirage_3cj": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "f-4e_iaf": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "nesher": {
+      "battle_rating_trb": "9.7",
+      "battle_rating_tsb": "9.7"
+    },
+    "kfir_c7": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "kfir_canard": {
+      "battle_rating_trb": "10.3",
+      "battle_rating_tsb": "10.3"
+    },
+    "kfir_c2": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    },
+    "mig_21_2000_iaf": {
+      "battle_rating_trb": "11.3",
+      "battle_rating_tsb": "11.3"
+    },
+    "f_16a_block_10_iaf": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "f-4e_kurnass_2000": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "f_15a_iaf": {
+      "battle_rating_trb": "11.7",
+      "battle_rating_tsb": "11.7"
+    },
+    "f_16d_block_40_barak_2": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "f_16i_sufa": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "f_16c_block_40_barak_2": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "f_15c_baz_msip": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "f_15i_raam": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "f_16a_block_10_netz_mod": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "kfir_c10_colombia": {
+      "battle_rating_trb": "12.0",
+      "battle_rating_tsb": "12.0"
+    },
+    "sb2c_5_greece": {
+      "battle_rating_trb": "3.7",
+      "battle_rating_tsb": "4.0"
+    },
+    "f-84g_greece": {
+      "battle_rating_trb": "7.7",
+      "battle_rating_tsb": "8.0"
+    },
+    "f_102a_greece": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "f_86em_greece": {
+      "battle_rating_trb": "8.7",
+      "battle_rating_tsb": "8.7"
+    },
+    "a_7h_greece": {
+      "battle_rating_trb": "10.0",
+      "battle_rating_tsb": "10.0"
+    },
+    "mirage_f1cg_greece": {
+      "battle_rating_trb": "11.0",
+      "battle_rating_tsb": "11.0"
+    },
+    "f_4e_aup_greece": {
+      "battle_rating_trb": "12.3",
+      "battle_rating_tsb": "12.3"
+    },
+    "mirage_2000_5eg_mk2_greece": {
+      "battle_rating_trb": "12.7",
+      "battle_rating_tsb": "12.7"
+    },
+    "rafale_eg_greece": {
+      "battle_rating_trb": "13.0",
+      "battle_rating_tsb": "13.0"
+    },
+    "a_7e_greece": {
+      "battle_rating_trb": "10.7",
+      "battle_rating_tsb": "10.7"
+    }
+  }
+}
