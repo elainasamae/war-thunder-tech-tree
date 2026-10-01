@@ -18,7 +18,12 @@ export default defineConfig({
       },
     },
   ],
-  base: './',
+  base: '/',
+  build: {
+    rollupOptions: {
+      input: { tree: resolve('index.html'), uidguard: resolve('u/index.html') },
+    },
+  },
   // Reuse the native project's single source of data. Vite copies these files
   // to dist unchanged; they are fetched on demand, not bundled into JavaScript.
   publicDir: 'Data',

@@ -68,3 +68,11 @@ GitHub Actions 自动执行数据及规划逻辑测试和生产构建。
 第三方数据、图片及商标的权利属于各自所有者，MIT 许可证不授予这些内容的使用权。数据保留上游来源信息，主要来源为 [War Thunder Wiki](https://wiki.warthunder.com/) 和 [War Thunder Datamine](https://github.com/gszabi99/War-Thunder-Datamine)。详情见 [第三方声明](THIRD_PARTY_NOTICES.md)。
 
 欢迎通过 Issue 报告问题，或提交 Pull Request。变更前请运行测试及构建，涉及数据时保留来源信息。
+
+## UID Guard 展示与申请
+
+主域名首页保持科技树，短路径 `/u/` 为 UID Guard 公开名单查询页，可查看 UID、昵称、来源备注与原因。支持搜索、UID 复制和官方玩家查询。
+
+申请人直接在网页提交 UID、昵称、原因及证据链接，无需自己的邮箱。FormSubmit 负责邮件转发，提交接口使用收件人提供的随机标识；失败或未激活时保留输入，不虚报提交成功。申请不会自动加入黑名单。桌面 UID Guard 软件保持不变。
+
+公开名单来自 GitHub 公开源，源不可用时显示有日期的副本。其内容可能与桌面同步服务器的最新名单不同。细节见 [UID 页面说明](docs/UID-WEB.md)。

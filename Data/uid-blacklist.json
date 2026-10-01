@@ -1,0 +1,56 @@
+{
+  "fetchedAt": "2026-10-01T11:27:11.123Z",
+  "data": {
+    "SchemaVersion": 2,
+    "Language": "zh-CN",
+    "OneDriveSyncEnabled": false,
+    "Players": [
+      {
+        "Uid": "176784760",
+        "Note": "",
+        "Aliases": [
+          "北条麻妃"
+        ],
+        "CreatedAt": "2026-08-29T08:20:55+02:00",
+        "UpdatedAt": "2026-08-29T08:30:58.9118707+02:00"
+      },
+      {
+        "Uid": "179656516",
+        "Note": "来源：Virream/WTBlackListsData 共享昵称表（非已审核黑名单）",
+        "Aliases": [
+          "Squirlykid14938"
+        ],
+        "CreatedAt": "2026-08-29T08:20:55+02:00",
+        "UpdatedAt": "2026-08-29T08:20:55+02:00"
+      },
+      {
+        "Uid": "28384455",
+        "Note": "",
+        "Aliases": [
+          "Manwhatcanisay"
+        ],
+        "CreatedAt": "2026-08-28T07:33:22.532294+02:00",
+        "UpdatedAt": "2026-08-28T07:33:22.5342773+02:00"
+      }
+    ],
+    "DeletedPlayers": [
+      {
+        "Uid": "123",
+        "DeletedAt": "2026-08-29T08:15:22.8625915+02:00"
+      },
+      {
+        "Uid": "111",
+        "DeletedAt": "2026-08-29T01:57:39.9130894+02:00"
+      },
+      {
+        "Uid": "1111",
+        "DeletedAt": "2026-08-28T15:07:11.600668+02:00"
+      },
+      {
+        "Uid": "111111",
+        "DeletedAt": "2026-08-28T15:06:30.7465882+02:00"
+      }
+    ]
+  },
+  "source": "https://raw.githubusercontent.com/elainasamae/WarThunderUIDGuard/main/data/blacklist.json"
+}

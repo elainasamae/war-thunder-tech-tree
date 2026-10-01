@@ -279,6 +279,7 @@ export default function App() {
             ))}
           </nav>
           <div className="sidebar-bottom">
+            <a href="/u/" className="uidguard-link"><Shield size={15} /> UID 黑名单</a>
             <span className="live-dot" /> 本地数据已就绪
             <small>
               游戏版本 {index?.game_data_version ?? '—'}
@@ -306,6 +307,7 @@ export default function App() {
             </h1>
           </div>
           <div className="header-controls">
+            <a href="/u/" className="uidguard-mobile-link"><Shield size={14} /> UID 黑名单</a>
             <div className="mode-control">
               <span>战斗模式</span>
               <div className="mode-tabs" aria-label="战斗模式">

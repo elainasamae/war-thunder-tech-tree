@@ -17,3 +17,8 @@ include:
 
 Users redistributing the data are responsible for complying with the terms and
 rights that apply to the corresponding upstream sources.
+
+The UID listing under `/u/` uses publicly published JSON from
+[WarThunderUIDGuard](https://github.com/elainasamae/WarThunderUIDGuard).
+Application information is sent through [FormSubmit](https://formsubmit.co/),
+whose [privacy policy](https://formsubmit.co/privacy.pdf) governs its handling.

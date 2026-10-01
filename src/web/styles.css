@@ -27,6 +27,18 @@
 body {
   margin: 0;
 }
+.uidguard-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-secondary);
+  text-decoration: none;
+  padding: 10px 0;
+  margin-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+}
+.uidguard-link:hover { color: var(--accent); }
+.uidguard-mobile-link { display: none; }
 button,
 input,
 select {
@@ -1781,6 +1793,7 @@ body {
   }
 }
 @media (max-width: 800px) {
+  .uidguard-mobile-link { display:flex; align-items:center; gap:4px; color:var(--accent); font-size:10px; white-space:nowrap; padding:7px 0; text-decoration:none; }
   .app-shell {
     height: auto;
     min-height: 100dvh;
