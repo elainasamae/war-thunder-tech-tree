@@ -279,7 +279,7 @@ export default function App() {
             ))}
           </nav>
           <div className="sidebar-bottom">
-            <a href="/m/" className="uidguard-link"><Crosshair size={15} /> 空空导弹弹道</a>
+            <a href="/m/" className="uidguard-link"><Crosshair size={15} /> 导弹弹道</a>
             <a href="/u/" className="uidguard-link"><Shield size={15} /> UID 黑名单</a>
             <span className="live-dot" /> 本地数据已就绪
             <small>

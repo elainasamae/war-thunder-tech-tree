@@ -14,6 +14,7 @@ import {
 import {
   COLORS,
   DEFAULTS,
+  GROUND_DEFAULTS,
   guidance,
   missileName,
   simulate,
@@ -166,12 +167,18 @@ function Plot({
   );
 }
 export default function MissilePage() {
+  const [mode, setMode] = useState(
+    new URLSearchParams(location.search).get('type') === 'agm' ? 'agm' : 'aam',
+  );
+  const defaults = mode === 'agm' ? GROUND_DEFAULTS : DEFAULTS;
   const [data, setData] = useState<Dataset | null>(null),
     [error, setError] = useState(''),
     [query, setQuery] = useState(''),
     [kind, setKind] = useState('全部'),
-    [selected, setSelected] = useState<string[]>(['us_aim_120a', 'su_r_27er']);
-  const [conditions, setConditions] = useState<Conditions>(DEFAULTS),
+    [selected, setSelected] = useState<string[]>(
+      mode === 'agm' ? ['us_agm_65d', 'su_kh_29t'] : ['us_aim_120a', 'su_r_27er'],
+    );
+  const [conditions, setConditions] = useState<Conditions>(defaults),
     [applied, setApplied] = useState<Conditions>(DEFAULTS),
     [inputError, setInputError] = useState('');
   const [view, setView] = useState<View>('side'),
@@ -183,12 +190,16 @@ export default function MissilePage() {
   useEffect(() => {
     const controller = new AbortController();
     setError('');
-    fetch('/air-to-air-ballistics.json', { signal: controller.signal })
+    setData(null);
+    fetch(mode === 'agm' ? '/air-to-ground-ballistics.json' : '/air-to-air-ballistics.json', {
+      signal: controller.signal,
+    })
       .then((r) => {
         if (!r.ok) throw Error();
         return r.json();
       })
       .then((j: Dataset) => {
+        if (controller.signal.aborted) return;
         if (!j.missiles?.length) throw Error();
         setData(j);
         setSelected((old) => {
@@ -200,7 +211,7 @@ export default function MissilePage() {
         if (!controller.signal.aborted) setError('导弹参数加载失败，请重试。');
       });
     return () => controller.abort();
-  }, [retry]);
+  }, [retry, mode]);
   const flights = useMemo(
     () =>
       data?.missiles
@@ -279,17 +290,44 @@ export default function MissilePage() {
             UID 黑名单
           </a>
           <a href="/m/" aria-current="page">
-            空空导弹
+            导弹弹道
           </a>
         </nav>
       </header>
       <main>
         <div className="page-heading">
           <div>
-            <span className="eyebrow">AIR-TO-AIR</span>
-            <h1>空空导弹弹道</h1>
+            <span className="eyebrow">{mode === 'agm' ? 'AIR-TO-GROUND' : 'AIR-TO-AIR'}</span>
+            <h1>{mode === 'agm' ? '空对地导弹弹道' : '空空导弹弹道'}</h1>
           </div>
           <span className="model-label">近似模拟 · 非游戏原始弹道</span>
+        </div>
+        <div className="category-tabs view-tabs" role="group" aria-label="导弹类型">
+          {[
+            ['aam', '空空导弹'],
+            ['agm', '空对地导弹'],
+          ].map(([value, label]) => (
+            <button
+              key={value}
+              aria-pressed={mode === value}
+              onClick={() => {
+                if (value === mode) return;
+                setMode(value);
+                setQuery('');
+                setKind('全部');
+                setSelected(
+                  value === 'agm' ? ['us_agm_65d', 'su_kh_29t'] : ['us_aim_120a', 'su_r_27er'],
+                );
+                const next = value === 'agm' ? GROUND_DEFAULTS : DEFAULTS;
+                setConditions(next);
+                setApplied(next);
+                setInputError('');
+                history.replaceState(null, '', value === 'agm' ? '/m/?type=agm' : '/m/');
+              }}
+            >
+              {label}
+            </button>
+          ))}
         </div>
         {error ? (
           <div role="alert" className="load-error">
@@ -309,13 +347,13 @@ export default function MissilePage() {
                 <Search size={17} />
                 <input
                   aria-label="搜索导弹"
-                  placeholder="搜索 AIM-120、R-73…"
+                  placeholder={mode === 'agm' ? '搜索 AGM-65、Kh-29…' : '搜索 AIM-120、R-73…'}
                   value={query}
                   onChange={(e) => setQuery(e.target.value)}
                 />
               </label>
               <select aria-label="制导类型" value={kind} onChange={(e) => setKind(e.target.value)}>
-                {['全部', '红外', '主动雷达', '半主动雷达', '其他'].map((k) => (
+                {['全部', ...new Set(data.missiles.map(guidance))].map((k) => (
                   <option key={k}>{k}</option>
                 ))}
               </select>
@@ -348,8 +386,8 @@ export default function MissilePage() {
                   <button
                     className="text-button"
                     onClick={() => {
-                      setConditions(DEFAULTS);
-                      setApplied(DEFAULTS);
+                      setConditions(defaults);
+                      setApplied(defaults);
                       setInputError('');
                     }}
                   >
@@ -395,7 +433,9 @@ export default function MissilePage() {
                   </button>
                 </div>
                 <p className="course-note">
-                  目标航向：0° 同向远离，180° 迎面，90° 横向。目标保持匀速、等高。
+                  {mode === 'agm'
+                    ? '空对地默认目标高度与速度为 0；高度表示地表海拔，可调整移动目标的速度和航向。'
+                    : '目标航向：0° 同向远离，180° 迎面，90° 横向。目标保持匀速、等高。'}
                 </p>
                 {inputError && (
                   <p role="alert" className="input-error">
@@ -572,6 +612,17 @@ export default function MissilePage() {
                     的发射条件和图表组织。其公开前端调用服务端 CalcMissileRange
                     接口；目前未查到其服务端算法和明确的上游仓库声明，本页不调用该接口，也不声称与其结果一致。
                   </p>
+                  {mode === 'agm' && (
+                    <p>
+                      空对地沿用理想跟踪近似，不模拟激光照射、电视图像锁定、手动指令或反辐射捕获。
+                      {data.skipped?.length ? (
+                        <>
+                          当前不支持流量/比冲发动机的 {data.skipped.length} 个参数变体：
+                          {data.skipped.map((x) => x.file.replace('.blkx', '')).join('、')}。
+                        </>
+                      ) : null}
+                    </p>
+                  )}
                   <div className="parameter-cards">
                     {flights.map((f) => {
                       const r = f.missile.rocket;

@@ -27,6 +27,7 @@ export interface Rocket {
   maxDistance?: number;
   loadFactorMax?: number;
   guidanceType?: string;
+  controlSensitivity?: number;
   guidance?: {
     guidanceAutopilot?: {
       reqAccelMax?: number;
@@ -37,9 +38,12 @@ export interface Rocket {
     };
     radarSeeker?: { active?: boolean };
     irSeeker?: unknown;
+    opticalSeeker?: { targetSignatureType?: string };
+    laserSeeker?: unknown;
   };
 }
 export interface Missile {
+  category?: 'air-to-ground' | 'air-to-air';
   id: string;
   name: string;
   file: string;
@@ -51,6 +55,7 @@ export interface Dataset {
   commit: string;
   version: string;
   sourceDate: string;
+  skipped?: { file: string; reason: string }[];
   missiles: Missile[];
 }
 export interface Conditions {
@@ -96,10 +101,21 @@ export const DEFAULTS: Conditions = {
   targetCourse: 180,
   loft: true,
 };
+export const GROUND_DEFAULTS: Conditions = {
+  ...DEFAULTS,
+  launchSpeed: 900,
+  targetAltitude: 0,
+  distance: 8000,
+  targetSpeed: 0,
+  targetCourse: 0,
+};
 export const COLORS = ['#4c6ef5', '#ec6d43', '#15a6a1', '#a15be0'];
 export function missileName(m: Missile) {
   return m.name
     .replace(/AIM ?(\d+)/, 'AIM-$1')
+    .replace(/AGM ?(\d+)/, 'AGM-$1')
+    .replace(/^KH ?(\d+)/, 'Kh-$1')
+    .replace(/^AKD ?(\d+)/, 'AKD-$1')
     .replace(/^R ?(\d+)/, 'R-$1')
     .replace(/^PL ?(\d+)/, 'PL-$1')
     .replace(/^AAM ?(\d+)/, 'AAM-$1')
@@ -109,13 +125,22 @@ export function missileName(m: Missile) {
 }
 export function guidance(m: Missile) {
   const r = m.rocket;
-  return r.guidanceType === 'ir' || r.guidanceType === 'infrared' || r.guidanceType === 'optical'
-    ? '红外'
-    : r.guidance?.radarSeeker?.active
-      ? '主动雷达'
-      : r.guidanceType === 'radar'
-        ? '半主动雷达'
-        : '其他';
+  const signature = r.guidance?.opticalSeeker?.targetSignatureType?.toLowerCase();
+  if (r.guidance?.laserSeeker || r.guidanceType === 'laser') return '激光';
+  if (signature === 'optic') return '电视';
+  if (signature === 'infrared' || r.guidanceType === 'ir' || r.guidanceType === 'infrared')
+    return '红外';
+  if (r.guidanceType === 'optical') return m.category === 'air-to-ground' ? '光学' : '红外';
+  if (r.guidance?.radarSeeker?.active) return '主动雷达';
+  if (r.guidanceType === 'radar')
+    return m.category === 'air-to-ground' ? '雷达 / 反辐射' : '半主动雷达';
+  if (r.guidanceType === 'saclos') return '半自动指令';
+  if (
+    r.controlSensitivity !== undefined ||
+    ['command', 'radio', 'beam'].includes(r.guidanceType ?? '')
+  )
+    return '指令';
+  return '其他';
 }
 const clamp = (n: number, a: number, b: number) => Math.min(b, Math.max(a, n));
 export function atmosphere(height: number) {
@@ -188,7 +213,8 @@ export function simulate(missile: Missile, c: Conditions, dt = 0.02): Flight {
     peakAltitude = c.launchAltitude,
     reason = '达到存活时间',
     travel = 0;
-  const stop = Math.min(r.timeLife, 180);
+  const stop = Math.min(r.timeLife, 600);
+  if (r.timeLife > 600) reason = '达到模拟时间上限（600 s）';
   const ap = r.guidance?.guidanceAutopilot;
   for (let t = 0; t <= stop; t += dt) {
     const target: V = [c.distance + tv[0] * t, c.targetAltitude, tv[2] * t];
