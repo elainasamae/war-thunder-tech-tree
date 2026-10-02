@@ -279,6 +279,7 @@ export default function App() {
             ))}
           </nav>
           <div className="sidebar-bottom">
+            <a href="/m/" className="uidguard-link"><Crosshair size={15} /> 空空导弹弹道</a>
             <a href="/u/" className="uidguard-link"><Shield size={15} /> UID 黑名单</a>
             <span className="live-dot" /> 本地数据已就绪
             <small>
@@ -307,6 +308,7 @@ export default function App() {
             </h1>
           </div>
           <div className="header-controls">
+            <a href="/m/" className="uidguard-mobile-link"><Crosshair size={14} /> 弹道</a>
             <a href="/u/" className="uidguard-mobile-link"><Shield size={14} /> UID 黑名单</a>
             <div className="mode-control">
               <span>战斗模式</span>

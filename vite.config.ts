@@ -21,7 +21,7 @@ export default defineConfig({
   base: '/',
   build: {
     rollupOptions: {
-      input: { tree: resolve('index.html'), uidguard: resolve('u/index.html') },
+      input: { tree: resolve('index.html'), uidguard: resolve('u/index.html'), missiles: resolve('m/index.html') },
     },
   },
   // Reuse the native project's single source of data. Vite copies these files
