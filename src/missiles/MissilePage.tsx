@@ -1,16 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import {
-  Crosshair,
-  Search,
-  Play,
-  Pause,
-  RotateCcw,
-  ExternalLink,
-  X,
-  Plane,
-  Shield,
-  GitBranch,
-} from 'lucide-react';
+import { Crosshair, Search, Play, Pause, RotateCcw, X, Plane, Shield } from 'lucide-react';
 import {
   COLORS,
   DEFAULTS,
@@ -570,99 +559,6 @@ export default function MissilePage() {
                   </div>
                 </div>
               )}
-              <details className="glass source-panel">
-                <summary>
-                  <GitBranch size={16} />
-                  数据来源与计算方式 · 游戏 {data.version}
-                </summary>
-                <div className="source-content">
-                  <p>
-                    参数：
-                    <a href={data.repository} target="_blank" rel="noreferrer">
-                      gszabi99 / War-Thunder-Datamine <ExternalLink size={13} />
-                    </a>
-                    ，提交{' '}
-                    <a
-                      href={`${data.repository}/commit/${data.commit}`}
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      {data.commit.slice(0, 12)}
-                    </a>
-                    ，时间 {new Date(data.sourceDate).toLocaleDateString('zh-CN')}
-                    。每个参数型号保留原始文件链接；不保证所有型号当前都可装备。
-                  </p>
-                  <p>
-                    本页使用自编的点质量模拟：标准大气、分段推力、燃烧时线性减重、重力、理想比例导引，以及按游戏
-                    CxK
-                    缩放的经验阻力系数。高抛仅按参数仰角加入初段抬升，新式多推进段暂按编号顺序燃烧，未复现游戏脉冲触发逻辑；未复现游戏
-                    PID、高抛退出条件、迎角阻力、气动力限制、外部气压对推力的修正、雷达/红外捕获、干扰或目标机动。未提供导航系数时采用
-                    3、过载上限采用 10
-                    G；这些是模型假设。结果用于游戏弹道趋势展示，不能作为实际命中距离。
-                  </p>
-                  <p>
-                    参考{' '}
-                    <a
-                      href="https://statshark.net/missilecalculator"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      StatShark 导弹计算器
-                    </a>
-                    的发射条件和图表组织。其公开前端调用服务端 CalcMissileRange
-                    接口；目前未查到其服务端算法和明确的上游仓库声明，本页不调用该接口，也不声称与其结果一致。
-                  </p>
-                  {mode === 'agm' && (
-                    <p>
-                      空对地沿用理想跟踪近似，不模拟激光照射、电视图像锁定、手动指令或反辐射捕获。
-                      {data.skipped?.length ? (
-                        <>
-                          当前不支持流量/比冲发动机的 {data.skipped.length} 个参数变体：
-                          {data.skipped.map((x) => x.file.replace('.blkx', '')).join('、')}。
-                        </>
-                      ) : null}
-                    </p>
-                  )}
-                  <div className="parameter-cards">
-                    {flights.map((f) => {
-                      const r = f.missile.rocket;
-                      return (
-                        <article key={f.missile.id}>
-                          <a href={f.missile.source} target="_blank" rel="noreferrer">
-                            {missileName(f.missile)}
-                            <ExternalLink size={13} />
-                          </a>
-                          <dl>
-                            <dt>初始质量</dt>
-                            <dd>{num(r.mass, 2)} kg</dd>
-                            <dt>第一级推力 / 时长</dt>
-                            <dd>
-                              {num(r.motorStages?.[0]?.force ?? r.force)} N /{' '}
-                              {num(r.motorStages?.[0]?.duration ?? r.timeFire, 2)} s
-                            </dd>
-                            <dt>第二级推力 / 时长</dt>
-                            <dd>
-                              {r.motorStages?.[1]
-                                ? `${num(r.motorStages[1].force)} N / ${num(r.motorStages[1].duration, 2)} s`
-                                : r.timeFire1
-                                  ? `${num(r.force1 ?? 0)} N / ${num(r.timeFire1, 2)} s`
-                                  : '无'}
-                            </dd>
-                            <dt>存活时间</dt>
-                            <dd>{r.timeLife} s</dd>
-                            <dt>高抛参数</dt>
-                            <dd>
-                              {r.guidance?.guidanceAutopilot?.loftEnabled
-                                ? `${r.guidance.guidanceAutopilot.loftElevation ?? '未提供'}°`
-                                : '无'}
-                            </dd>
-                          </dl>
-                        </article>
-                      );
-                    })}
-                  </div>
-                </div>
-              </details>
             </section>
           </div>
         )}
